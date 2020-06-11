@@ -1,0 +1,14 @@
+{
+  "name": "lollem",
+  "description": "Esempio di webapi node su azure",
+  "version": "0.0.1",
+  "private": true,
+  "license": "MIT",
+  "author": "Daniele",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
