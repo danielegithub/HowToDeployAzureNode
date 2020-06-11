@@ -12,9 +12,9 @@ In questa solution di visual studio code ho creato un progetto, con le configura
 
 > Altro elemento fondamentale per il corretto funzionamento dell'applicazione è la configurazione dei file process.json o package.json, nel definiamo le dipendenze e il file di startup
 
--Abbiamo due modi per configurare l'avvio dell'applicazione:
+- Abbiamo due modi per configurare l'avvio dell'applicazione:
 
--- **package.json**:
+- **package.json**:
 
 ```ruby
 {
@@ -33,7 +33,7 @@ In questa solution di visual studio code ho creato un progetto, con le configura
 }
 ```
 
--- **process.json**
+- **process.json**
 
 ```ruby
 {
